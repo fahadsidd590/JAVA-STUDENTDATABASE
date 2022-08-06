@@ -1,0 +1,13 @@
+first copy the zipfile
+
+then paste it to netbeans project folder
+
+then unzip it and open netbeans (netbeans 8.2)
+
+it is text file 
+first clear it 
+now insert data as first student record and then result then prizes
+for this i am inserting demo data
+one record insert successfully
+now can display it
+
